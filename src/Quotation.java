@@ -1,15 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/**
- *
- * @author User
- */
 public class Quotation {
-  String quote = "Welcome to Sun!";
+  String quote = "The best way to predict the future is to invent it.\n - Alan kay";
   public void display() {
     System.out.println(quote);
   }
