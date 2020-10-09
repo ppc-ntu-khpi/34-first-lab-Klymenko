@@ -3,4 +3,4 @@
 # 2) Посилання на файли task1.md та task2.md
 [Перше завдання](https://github.com/ppc-ntu-khpi/34-first-lab-Klymenko/blob/master/Solution/task1.md)
 ***
-https://github.com/ppc-ntu-khpi/34-first-lab-Klymenko/blob/master/Solution/task2.md
+[Друге завдання](https://github.com/ppc-ntu-khpi/34-first-lab-Klymenko/blob/master/Solution/task2.md)
